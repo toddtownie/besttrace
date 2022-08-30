@@ -8,7 +8,5 @@ Credit to: (C) 2015 - 2021, IPIP.NET
 
 ## Linux
 wget https://github.com/toddtownie/besttrace/raw/main/besttrace
-
 chmod +x besttrace
-
-./besttrace X.X.X.X
+./besttrace -q1 X.X.X.X
